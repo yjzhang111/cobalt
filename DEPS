@@ -316,7 +316,7 @@ vars = {
   # Three lines of non-changing comments so that
   # the commit queue can handle CLs rolling V8
   # and whatever else without interference from each other.
-  'v8_revision': 'f242644ed01ae4c2cf29265217b12b32af4c1fbf',
+  'v8_revision': '941b5dddb03928bedd4ede9c8b12e32703e7bdc8',
   # Three lines of non-changing comments so that
   # the commit queue can handle CLs rolling ANGLE
   # and whatever else without interference from each other.
@@ -424,7 +424,7 @@ vars = {
   # Three lines of non-changing comments so that
   # the commit queue can handle CLs rolling feed
   # and whatever else without interference from each other.
-  'dawn_revision': 'bafe90310e81b0ce24a3ca1d60089de3ca029703',
+  'dawn_revision': 'd98d9ca2cb80995c50998effd9f7fc01bd240350',
   # Three lines of non-changing comments so that
   # the commit queue can handle CLs rolling feed
   # and whatever else without interference from each other.
